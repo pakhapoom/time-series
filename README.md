@@ -1,0 +1,1 @@
+Data used in the project is obtained from [this link](https://www.nasdaq.com/market-activity/stocks/aapl/historical) without intention to become any financial advice. The purpose of this project is to explore a variety of tools that can be utilized to analyze time series dataset.
